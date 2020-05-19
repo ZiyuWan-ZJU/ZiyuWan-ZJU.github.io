@@ -2,10 +2,10 @@
 a {color:#000;font-size:14px;}
 #main{width:100%;}
 #wrap{position:relative;margin:0 auto;width:1100px;height:680px;margin-top:10px;}
-#text{width:272px;
+#text{width:382px;
 height:560px;
-left:188px;
-top:80px;position:absolute;
+left:78px;
+top:30px;position:absolute;
 }
 #code{display:none;font-size:16px;}
 #clock-box {position:absolute;left:60px;top:550px;font-size:28px;display:none;}
